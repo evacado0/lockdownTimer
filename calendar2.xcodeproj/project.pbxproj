@@ -11,6 +11,7 @@
 		C7A16C1D2A8BF8D4005FF795 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A16C1C2A8BF8D4005FF795 /* ContentView.swift */; };
 		C7A16C1F2A8BF8D5005FF795 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7A16C1E2A8BF8D5005FF795 /* Assets.xcassets */; };
 		C7A16C222A8BF8D5005FF795 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7A16C212A8BF8D5005FF795 /* Preview Assets.xcassets */; };
+		C7A16C292A8BFF12005FF795 /* Content-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7A16C282A8BFF12005FF795 /* Content-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C7A16C1C2A8BF8D4005FF795 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C7A16C1E2A8BF8D5005FF795 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7A16C212A8BF8D5005FF795 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C7A16C282A8BFF12005FF795 /* Content-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Content-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C7A16C1A2A8BF8D4005FF795 /* calendar2App.swift */,
 				C7A16C1C2A8BF8D4005FF795 /* ContentView.swift */,
+				C7A16C282A8BFF12005FF795 /* Content-ViewModel.swift */,
 				C7A16C1E2A8BF8D5005FF795 /* Assets.xcassets */,
 				C7A16C202A8BF8D5005FF795 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				C7A16C1D2A8BF8D4005FF795 /* ContentView.swift in Sources */,
 				C7A16C1B2A8BF8D4005FF795 /* calendar2App.swift in Sources */,
+				C7A16C292A8BFF12005FF795 /* Content-ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
